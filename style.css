@@ -3,7 +3,7 @@
      color:#333;
      width:100%;
      font-family: sans-serif;
-     margin:0 auto;
+     margin:0 auto;  
 }
 .header{
     width:90%;
@@ -12,10 +12,14 @@
     line-height:120px;
     background:#417aa8;
     color:#fff; 
+ 
 }
+
 .jarak{
     padding:0 2pc;
+ 
 }
+
 .menu{
     background-color:#417aa8;
     height:50px;
@@ -25,6 +29,7 @@
     margin:0 auto;
     padding:0 auto;
 }
+
 .menu ul {
     list-style:none;
 }
